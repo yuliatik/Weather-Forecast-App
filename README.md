@@ -6,7 +6,7 @@ learning HTML/CSS /JavaScript/React/Node...
 This app provides you with accurate weather forecasts for any location in the world.
 You can check the current weather, temperature, date and more.
 To use the app you will need to enter your city and click "Enter".
-Please open the app and show the weather: 
+Please open the app and show the weather: https://rad-pixie-e3c848.netlify.app/
 
 ## 🌤 Features
 

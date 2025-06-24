@@ -50,5 +50,5 @@ function getOurDate(){
     showDate.textContent = `${day}` + " " + `${todayDate}` + " " + `${month}` + " " + `${year}` 
 }
 
-gsap.to("#container", {x:400, delay:2, duration:2, rotation:360 })
+
 

@@ -90,29 +90,39 @@ body {
                 font-weight:bold;
             }
 
-            @media all and (max-width:500px){
-            #container { 
-                width: 200px;
-                height:320px;
-                min-height: 80vh;
-                    }
+ @media (max-width: 500px) {
+          #container {
+            width: 90%;
+            padding: 15px;
+            border-radius: 20px;
+          }
 
-             #when-where{
-                font-size:20px;
-                    }
+          #input {
+            font-size: 16px;
+            padding: 10px;
+          }
 
-            #city, #date, #temperature, #condition{
-                font-size:20px;
-                    }
+          #city {
+           font-size: 28px;
+          }
 
-            #input{
-                font-size:10px;
-                    }
+         #date {
+          font-size: 20px;
+         }
 
-            body{
-                margin:0;
-                    }
+         #temperature {
+          font-size: 60px;
+         }
 
-            }
+         #condition {
+          font-size: 20px;
+        }
 
+         #feelsLike, #variation {
+          font-size: 18px;
+         }
+}
+
+
+           
 

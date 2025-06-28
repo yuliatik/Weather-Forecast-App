@@ -91,35 +91,37 @@ body {
             }
 
  @media (max-width: 500px) {
-          #container {
-            width: 90%;
-            padding: 15px;
-            border-radius: 20px;
-          }
+           #container {
+               width: 100vw;
+               height: 100vh;
+               border-radius: 0;
+               padding: 20px;
+               box-sizing: border-box;
+            }
 
           #input {
-            font-size: 16px;
-            padding: 10px;
-          }
+              font-size: 16px;
+              padding: 10px;
+            }
 
           #city {
-           font-size: 28px;
-          }
+             font-size: 28px;
+           }
 
          #date {
-          font-size: 20px;
-         }
+             font-size: 20px;
+           }
 
          #temperature {
-          font-size: 60px;
+             font-size: 60px;
          }
 
          #condition {
-          font-size: 20px;
+             font-size: 20px;
         }
 
          #feelsLike, #variation {
-          font-size: 18px;
+             font-size: 18px;
          }
 }
 

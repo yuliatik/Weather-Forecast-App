@@ -30,3 +30,8 @@ Please open the app and show the weather: https://weather-now-js.netlify.app/
 
 📌 License
 This project is open-source and available under the MIT License.
+
+---
+This project was created as part of a learning exercise and is intended for educational use only.
+Feel free to ask questions or suggest improvements!
+
